@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BrewCoffee.Tests/BrewCoffee.Tests.csproj" />
+  <Project Path="BrewCoffee/BrewCoffee.csproj" />
+</Solution>
